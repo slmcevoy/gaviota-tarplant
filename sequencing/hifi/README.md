@@ -6,10 +6,10 @@
 
 ### Sequencing reports
 
-Provided by Oanh Nguyen (OHNGUYEN@ucdavis.edu), Staff Research ASsociate - PacBio Platform, DNA Technologies Core, UC Davis Genome Center
-[A1-m64069_220809_200722](https://github.com/slmcevoy/gaviota-tarplant/blob/main/sequencing/hifi/A1-PB776_GVTP_1_GaviotaTarplant_cell2_report.pdf)
-[B1-m64069_220811_070224](https://github.com/slmcevoy/gaviota-tarplant/blob/main/sequencing/hifi/B1-PB776_GVTP_1_GaviotaTarplant_HiFiv3_cell3_report.pdf)
-[C1-m64069_220729_164623](https://github.com/slmcevoy/gaviota-tarplant/blob/main/sequencing/hifi/C1-PB776_GaviotaTarplant_cell1_report.pdf)
+Provided by Oanh Nguyen (OHNGUYEN@ucdavis.edu), Staff Research Associate - PacBio Platform, DNA Technologies Core, UC Davis Genome Center
+* [A1-m64069_220809_200722](https://github.com/slmcevoy/gaviota-tarplant/blob/main/sequencing/hifi/A1-PB776_GVTP_1_GaviotaTarplant_cell2_report.pdf)
+* [B1-m64069_220811_070224](https://github.com/slmcevoy/gaviota-tarplant/blob/main/sequencing/hifi/B1-PB776_GVTP_1_GaviotaTarplant_HiFiv3_cell3_report.pdf)
+* [C1-m64069_220729_164623](https://github.com/slmcevoy/gaviota-tarplant/blob/main/sequencing/hifi/C1-PB776_GaviotaTarplant_cell1_report.pdf)
 
 ### Quality control
 
@@ -19,5 +19,5 @@ Provided by Oanh Nguyen (OHNGUYEN@ucdavis.edu), Staff Research ASsociate - PacBi
 
 ### Filtering
 
-Centrifuge was used to identify and filter contaminants.  I copied over and index I was using at UConn, containing archaea, bacteria, fungus, and virus.
-LongQC was run after this filtering to check the drop in coverage.
+* Centrifuge was used to identify and filter contaminants.  I copied over and index I was using at UConn, containing archaea, bacteria, fungus, and virus.
+* LongQC was run after this filtering to check the drop in coverage.
