@@ -5,13 +5,13 @@
 * The visualization was plotted in Genomescope 2.0.
 
 ### K21
-<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk21.png" height="350"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k21_L20_500000.png" height="350"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k21_L20_500000_log10.png" height="350">
+<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk21.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k21_L20_500000.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k21_L20_500000_log10.png" height="325">
 
 ### K27
-<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk27.png" height="350"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k27_L20_500000.png" height="350"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k27_L20_500000_log10.png" height="350">
+<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk27.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k27_L20_500000.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k27_L20_500000_log10.png" height="325">
 
 ### K31
-<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk31.png" height="350"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k31_L19_500000.png" height="350"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k31_L19_500000_log10.png" height="350">
+<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk31.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k31_L19_500000.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k31_L19_500000_log10.png" height="325">
 
 ---
 
