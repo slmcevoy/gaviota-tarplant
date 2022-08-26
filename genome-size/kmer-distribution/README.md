@@ -1,8 +1,13 @@
 # Kmer counting
 
-* KMC with HiFi reads were used to create the histogram of kmer frequencies
+* KMC v3.1.1 with HiFi reads were used to create the histogram of kmer frequencies.  I tested kmers 21, 27, 31, with max coverage 500000.  There are two gits for KMC.  I used the following as recommended, to get the smudge_pairs command. https://github.com/tbenavi1/KMC 
+
 * The visualization was plotted in Genomescope 2.0.
 
+[21mers](https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk21.png) [27mers](https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk27.png) [31mers](https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk31.png)
+
+
+---
 
 Guidance on generating kmers from Omni-C documentation. Covers trimming of bridge sequence and generating the kmer database
 https://omni-c.readthedocs.io/en/latest/assembly.html#assembly-enhancement
