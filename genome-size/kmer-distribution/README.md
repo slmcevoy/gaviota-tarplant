@@ -4,7 +4,7 @@
 
 * The visualization was plotted in Genomescope 2.0.
 
-![21mers](https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk21.png | width=250) ![27mers](https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk27.png | width=250) ![31mers](https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk31.png | width=250)
+<img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk21.png" width="250"><img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk27.png" width="250"><img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescopeGVTPk31.png" width="250">
 
 
 ---
