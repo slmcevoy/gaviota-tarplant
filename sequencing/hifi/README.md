@@ -13,11 +13,21 @@ Provided by Oanh Nguyen (OHNGUYEN@ucdavis.edu), Staff Research Associate - PacBi
 
 ### Quality control
 
-* HiFiAdapterFilt v2.0.0 was used to trim adapters.
-* LongQC v1.2.0c was used to generate [summary statistics](https://docs.google.com/spreadsheets/d/1UE9K6D2R1yrIELLfxwF7lrPZlcxHniXjwkWnjI0mfms) before and after adapter trimming. I also tested this for adapter trimming before deciding on HiFiAdapterFilt.  It found 5-15 seqs per library for trimming, but these might be inaccurate.  FastQC also picked up a tiny amount of RNA related adapters so I think these trimming tools that are non-specific to Hifi might pick up more artifacts if left to detect them automatically.
-* FastQC is primarly for short read quality control, but it was run here as an additional perpsective.
+* LongQC v1.2.0c was used to generate [summary statistics](https://docs.google.com/spreadsheets/d/1UE9K6D2R1yrIELLfxwF7lrPZlcxHniXjwkWnjI0mfms) on raw reads and after the final filtering. I also tested this for adapter trimming (see longQC/A1-trimmed/, etc) before deciding on HiFiAdapterFilt.  It found 5-15 seqs per library for trimming, but these might be inaccurate.  FastQC also picked up a tiny amount of RNA related adapters so I think these trimming tools that are non-specific to Hifi might pick up more artifacts if left to detect them automatically.
+* HiFiAdapterFilt v2.0.0 was used to filter reads with adapters. (Only 0-1 per library).  According to PacBio documentation, [adapter and length filtering occur during CSS creation](https://ccs.how/how-does-ccs-work.html).
+* FastQC is primarly for short read quality control, but it was run here as an additional check.
 
 ### Filtering
 
-* Centrifuge was used to identify and filter contaminants.  I copied over and index I was using at UConn, containing archaea, bacteria, fungus, and virus.
+* Centrifuge v1.0.4 was used to identify and filter contaminants.  I copied over and index I was using at UConn, containing archaea, bacteria, fungus, and virus.
+  * It appears that mainly bacteria were filtered. Acinetobacter baumannii and Clostridium tetani had the most reads filtered by far.
 * LongQC was run after this filtering to check the drop in coverage.
+
+### Final coverage
+
+Based on flow cytometry estimates of 1.70 - 2.3 Gbp and Genomescope average estimate of 1.75 Gbp
+* 1.70 Gbp genome = 44x
+* 1.75 Gbp genome = 43x
+* 2.30 Gbp genome = 33x
+
+[Full summary statistics](https://docs.google.com/spreadsheets/d/1UE9K6D2R1yrIELLfxwF7lrPZlcxHniXjwkWnjI0mfms)
