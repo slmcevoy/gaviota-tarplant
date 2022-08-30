@@ -5,7 +5,7 @@
 * The visualization was plotted in Genomescope 2.0. (left column, below).  The plot is a bit unusual as the top of the first peak is cutoff.  The coverage of reads with errors (red line) is also higher than most.  Usually this line drops off quickly.
 
 * Smudgeplot v0.2.2 was used to estimate ploidy which was diploid for all 3 kmers tested (middle and right columns, below).  When running Smudgeplot, lower and upper boundaries of the kmer frequency peaks must be selected.  I let the script autodetect the upper boundary as this is not a critical value.  The lower boundary proposed by the autodetect script did not capture all of the initial peaks as observed in the GenomeScope plots, so I used Genomescope's kcov value as L in each case. This was based on guidance from the Smudgeplot git wiki and issue queue.
-  * The publication found that in highly repetitive genomes, signal from the repeats or highly heterozygous genomes can hide signal of polyploidism.  Our repeats are over 70%, which is high enough to fall into this case.
+  * The publication notes that in testing they found that in highly repetitive genomes, signal from the repeats or highly heterozygous genomes can hide signal of polyploidism.  Our repeats are over 70%, which is high enough to fall into this case.
 
 ### K21
 <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/genomescope/genomescopeGVTPk21.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k21_L20_500000.png" height="325"> <img src="https://github.com/slmcevoy/gaviota-tarplant/blob/main/genome-size/kmer-distribution/smudgeplot/smudgeplot_smudgeplot_k21_L20_500000_log10.png" height="325">
