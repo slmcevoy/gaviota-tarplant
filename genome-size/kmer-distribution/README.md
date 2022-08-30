@@ -4,7 +4,7 @@
 
 * The visualization was plotted in Genomescope 2.0. (left column, below)
 
-* Smudgeplot v0.2.2 was used to estimate ploidy.  Lower and upper boundaries of the kmer frequency peaks must be selected.  I let the script autodetect the upper boundary as this is not a critical value.  The lower boundary proposed by the script did not capture all of the initial peaks as seen in GenomeScope, so I used Genomescope's kcov value as L in each case. This was based on guidance from the Smudgeplot git wiki and issue queue.
+* Smudgeplot v0.2.2 was used to estimate ploidy (middle and right columns, below).  Lower and upper boundaries of the kmer frequency peaks must be selected.  I let the script autodetect the upper boundary as this is not a critical value.  The lower boundary proposed by the script did not capture all of the initial peaks as seen in GenomeScope, so I used Genomescope's kcov value as L in each case. This was based on guidance from the Smudgeplot git wiki and issue queue.
   * The publication found that in highly repetitive genomes, signal from the repeats or highly heterozygous genomes can hide signal of polyploidism.  Our repeats are over 70%, which is high enough to fall into this case.
 
 ### K21
