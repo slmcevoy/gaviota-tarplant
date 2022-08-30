@@ -1,10 +1,10 @@
 # Kmer analysis
 
-* KMC v3.1.1 with HiFi reads were used to create the histogram of kmer frequencies.  I tested kmers 21, 27, 31, with max coverage 500000.  There are two gits for KMC.  I used the following as recommended, to get the smudge_pairs command. https://github.com/tbenavi1/KMC 
+* KMC v3.1.1 with HiFi reads were used to create the histograms of kmer frequencies.  I tested kmers 21, 27, 31, with max coverage 500000.  There are two gits for KMC, and I used the following as recommended, to get the smudge_pairs command: https://github.com/tbenavi1/KMC 
 
-* The visualization was plotted in Genomescope 2.0. (left column, below)
+* The visualization was plotted in Genomescope 2.0. (left column, below).  The plot is a bit unusual as the top of the first peak is cutoff.  The coverage of reads with errors (red line) is also higher than most.  Usually this line drops off quickly.
 
-* Smudgeplot v0.2.2 was used to estimate ploidy (middle and right columns, below).  Lower and upper boundaries of the kmer frequency peaks must be selected.  I let the script autodetect the upper boundary as this is not a critical value.  The lower boundary proposed by the script did not capture all of the initial peaks as seen in GenomeScope, so I used Genomescope's kcov value as L in each case. This was based on guidance from the Smudgeplot git wiki and issue queue.
+* Smudgeplot v0.2.2 was used to estimate ploidy which was diploid for all 3 kmers tested (middle and right columns, below).  When running Smudgeplot, lower and upper boundaries of the kmer frequency peaks must be selected.  I let the script autodetect the upper boundary as this is not a critical value.  The lower boundary proposed by the autodetect script did not capture all of the initial peaks as observed in the GenomeScope plots, so I used Genomescope's kcov value as L in each case. This was based on guidance from the Smudgeplot git wiki and issue queue.
   * The publication found that in highly repetitive genomes, signal from the repeats or highly heterozygous genomes can hide signal of polyploidism.  Our repeats are over 70%, which is high enough to fall into this case.
 
 ### K21
