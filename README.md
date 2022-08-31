@@ -11,7 +11,7 @@
 
 [Flow cytometry estimate](genome-size/flowcy/README.md)
 
-[K-mer based estimates] (genome-size/kmer-distribution/README.md)
+[K-mer based estimates](genome-size/kmer-distribution/README.md)
 
 ### Sequencing
 
