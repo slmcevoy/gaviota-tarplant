@@ -9,16 +9,13 @@
 
 ### Size estimation
 
-[Flow cytometry estimate](genome-size/flowcy/README.md)  
-Estimated at 1.7 -2.3 Gbp
+[Flow cytometry estimate](genome-size/flowcy/README.md) - 1.7 -2.3 Gbp
 
-[K-mer based estimates](genome-size/kmer-distribution/README.md)  
-Estimated at 1.75 Gbp, 70% repeats, and heterozygosity of 1.83.
+[K-mer based estimates](genome-size/kmer-distribution/README.md) - 1.75 Gbp, 70% repeats, and heterozygosity of 1.83.
 
 ### Sequencing
 
-[HiFi raw and filtered summaries](sequencing/hifi/)  
-Using 1.75Gbp as the genomize size, there is 44x raw reads and 43x after filtering contaminants, most of which was bactieria.
+[HiFi raw and filtered summaries](sequencing/hifi/) - Using 1.75Gbp as the genomize size, there is 44x raw reads and 43x after filtering contaminants, most of which was bactieria.
 
 Omni-C summaries coming...
 
