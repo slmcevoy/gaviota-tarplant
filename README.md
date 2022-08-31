@@ -15,7 +15,7 @@
 
 ### Sequencing
 
-[HiFi raw and filtered summaries](sequencing/hifi/) - Using 1.75Gbp as the genomize size, there is 44x raw reads and 43x after filtering contaminants, most of which was bactieria.
+[HiFi raw and filtered summaries](sequencing/hifi/) - Using 1.75Gbp as the genomize size, raw read coverage is 44x and there is 43x after filtering contaminants, most of which was bactieria.
 
 Omni-C summaries coming...
 
