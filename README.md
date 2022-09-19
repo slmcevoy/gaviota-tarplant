@@ -6,6 +6,7 @@
 
 [Manuscript](https://docs.google.com/document/d/1-gQ0Fu_akPzGVo_qbwzlaDTzs5p_G3sr7LgDhgCQFik) - [Original template](https://github.com/slmcevoy/gaviota-tarplant/blob/main/manuscript/GenomeResourceTemplateCCGP.docx)
 
+[NSF ExploreACCESS Allocation Request](https://docs.google.com/document/d/1ua9xHu3JIEED47vCyB_bPgAcN1v6m9otQfiM2Oj0AHU/edit?usp=sharing) - [ACCESS website](https://access-ci.org/)
 
 ### Size estimation
 
