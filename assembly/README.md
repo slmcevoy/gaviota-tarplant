@@ -36,8 +36,10 @@ Running Purge Haplotigs to see how this splits the genome into primary and alter
 
 Running...  
 
-### Assembly evaluation
+## Assembly evaluation
 
-#### Quast v5.2.0 --large
+### Quast v5.2.0 --large
 All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).  
+
+### BUSCO v5.4.3 with embryophyta database odb10
 
