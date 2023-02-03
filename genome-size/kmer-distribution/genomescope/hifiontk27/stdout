@@ -1,0 +1,37 @@
+/public/home/sumcevoy/miniconda3/envs/smudgeplot/lib/python3.10/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.5
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+Running smudgeplot v0.2.2
+Task: cutoff
+
+Done!
+in1: 100%
+/public/home/sumcevoy/miniconda3/envs/smudgeplot/lib/python3.10/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.5
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+Running smudgeplot v0.2.2
+Task: plot
+Calling: smudgeplot_plot.R -i "kmcdb_L24_U1700_coverages.tsv" -o "smudgeplot" -k 21
+Warning message:
+package ‘smudgeplot’ was built under R version 3.6.2
+
+######################
+## INPUT PROCESSING ##
+######################
+
+#############
+## SUMMARY ##
+#############
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to         35
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to         30
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to         25
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to         20
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to         18
+!! Careful, your coverage filter on the lower end (L =  24      ) is higher than half of the 1n coverage estimate ( 1n / 2 =    16.25
+If the real 1n coverage is half of your estimate you would not picked it up due to the filtering.
+If you have sufficient coverage, consider reruning the analysis with lower L (something like (1n / 2) - 5)
+One good way for verificaiton would be to compare it to GenomeScope estimate of haploid coverage
+
+##########
+## PLOT ##
+##########
+null device
+          1

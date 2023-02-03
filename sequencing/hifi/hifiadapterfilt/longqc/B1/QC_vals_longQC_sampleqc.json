@@ -1,0 +1,34 @@
+{
+    "Yield": 26475170220,
+    "Q7 bases": "99.73%",
+    "Longest_read": 54280,
+    "Num_of_reads": 2157412,
+    "Length_stats": {
+        "gamma_params": [
+            7.755702975668526,
+            1582.2842410282447
+        ],
+        "Mean_read_length": 12271.726596496172,
+        "N50_read_length": 13034.0
+    },
+    "GC_stats": {
+        "Mean_GC_content": 0.3836686313152313,
+        "SD_GC_content": 0.036299169063568115
+    },
+    "Stats_for_adapter5": {
+        "Num_of_trimmed_reads_5": 4,
+        "Max_identity_adp5": 0.8666666666666667,
+        "Average_position_from_5_end": 50.5
+    },
+    "Stats_for_adapter3": {
+        "Num_of_trimmed_reads_3": 5,
+        "Max_identity_adp3": 0.8222222222222222,
+        "Average_position_from_3_end": 64.8
+    },
+    "Coverage_stats": {
+        "Estimated non-sense read fraction": 0.0004,
+        "Mean_coverage": 128.9891608498718,
+        "SD_coverage": 102.35570246180515,
+        "Estimated crude Xome size": "205169023 (e = 0.0%)"
+    }
+}
