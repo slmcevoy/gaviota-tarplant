@@ -42,14 +42,16 @@ Script: hisat.sh (bottom for loop only)
 <details>
 <summary>Gene annotation</summary>  
 
-   
+<br>   
 EASEL - transcript assembly, gene prediction, filtering, summary metrics  
-
+<br>  
+<br>
 Easel was run on the UCONN HPC but the output is saved at:  
  /redser5/projects/GVTP/gene_annotations  gvtp-easel.tar.gz  
  Command to run easel: nextflow.sh  
+ <br>
  Configurations for run: gvtp.yaml  
-
+<br><br>
 Scripts to run are saved above along with descriptive output such as metrics and the entap log.  
 
 </details>
