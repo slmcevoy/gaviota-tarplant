@@ -42,7 +42,7 @@ Script: hisat.sh (bottom for loop only)
 <details>
 <summary>Gene annotation</summary>  
 
-
+   
 EASEL - transcript assembly, gene prediction, filtering, summary metrics  
 
 Easel was run on the UCONN HPC but the output is saved at:  
