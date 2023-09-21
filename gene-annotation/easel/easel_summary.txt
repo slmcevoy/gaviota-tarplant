@@ -1,0 +1,41 @@
+######## Genome ########
+74.81 % of DEINVI_genome.masked.fasta is masked
+ 
+##### RNA Reads #####
+FASTQ files were not provided.
+
+##### Alignment Rates #####
+Passed:
+library rate
+trimmed_GVTP-1Root_S2_L002_mapped_unclassified 86.52
+trimmed_GVTP-1Shoot_S1_L002_mapped_unclassified 91.42
+trimmed_GVTP-2Root_S4_L002_mapped_unclassified 77.87
+trimmed_GVTP-2Shoot_S3_L002_mapped_unclassified 89.19
+trimmed_GVTP-5Root_S6_L002_mapped_unclassified 83.69
+trimmed_GVTP-5Shoot_S5_L002_mapped_unclassified 76.20
+trimmed_GVTPMLeaf_S7_L002_mapped_unclassified 86.26
+trimmed_GVTPMRoot_S8_L002_mapped_unclassified 87.88
+
+Failed:
+None.
+All libraries have a mapping rate greater than 70%
+ 
+##### StringTie2 Transcriptome Asssembly #####
+76471 transcripts
+ 
+##### PsiCLASS Transcriptome Asssembly #####
+116777 transcripts
+ 
+##### Unfiltered #####
+Total number of genes: 197480
+Total number of transcripts: 333739
+EnTAP alignment rate: .65
+Mono-exonic/multi-exonic rate: .69 
+BUSCO (embryophyta_odb10): C:98.6%[S:9.4%,D:89.2%],F:0.7%,M:0.7%,n:1614	   
+ 
+##### Filtered #####
+Total number of genes: 41039
+Total number of transcripts: 69563
+EnTAP alignment rate: .92
+Mono-exonic/multi-exonic rate: .24 
+BUSCO (embryophyta_odb10): C:96.6%[S:24.8%,D:71.8%],F:0.4%,M:3.0%,n:1614	   

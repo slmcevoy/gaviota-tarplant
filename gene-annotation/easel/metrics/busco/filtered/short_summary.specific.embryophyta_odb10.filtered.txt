@@ -1,0 +1,18 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2020-09-10, number of genomes: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file /labs/Wegrzyn/gvtp/easel/work/2e/74373f5f5c5f430eaf0d2a1aee8bed/gvtp_filtered.pep
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.6%[S:24.8%,D:71.8%],F:0.4%,M:3.0%,n:1614	   
+	1559	Complete BUSCOs (C)			   
+	400	Complete and single-copy BUSCOs (S)	   
+	1159	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	49	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.4.4

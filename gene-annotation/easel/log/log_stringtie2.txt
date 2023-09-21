@@ -1,0 +1,3 @@
+ 
+##### StringTie2 Transcriptome Asssembly #####
+76471 transcripts

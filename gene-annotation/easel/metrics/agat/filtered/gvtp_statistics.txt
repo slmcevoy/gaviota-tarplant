@@ -1,0 +1,216 @@
+--------------------------------------------------------------------------------
+
+Compute transcript with isoforms if any
+
+Number of gene                               41039
+Number of transcript                         69563
+Number of mrnas with utr both sides          9124
+Number of mrnas with at least one utr        9637
+Number of cds                                69563
+Number of exon                               546632
+Number of five_prime_utr                     9348
+Number of start_codon                        69310
+Number of stop_codon                         69286
+Number of three_prime_utr                    9413
+Number of exon in cds                        539443
+Number of exon in five_prime_utr             13418
+Number of exon in three_prime_utr            12474
+Number of intron in cds                      469880
+Number of intron in exon                     477069
+Number of intron in five_prime_utr           4070
+Number of intron in start_codon              13
+Number of intron in stop_codon               22
+Number of intron in three_prime_utr          3061
+Number gene overlapping                      8413
+Number of single exon gene                   8085
+Number of single exon transcript             9652
+mean transcripts per gene                    1.7
+mean cdss per transcript                     1.0
+mean exons per transcript                    7.9
+mean five_prime_utrs per transcript          0.1
+mean start_codons per transcript             1.0
+mean stop_codons per transcript              1.0
+mean three_prime_utrs per transcript         0.1
+mean exons per cds                           7.8
+mean exons per five_prime_utr                1.4
+mean exons per three_prime_utr               1.3
+mean introns in cdss per transcript          6.8
+mean introns in exons per transcript         6.9
+mean introns in five_prime_utrs per transcript0.1
+mean introns in start_codons per transcript  0.0
+mean introns in stop_codons per transcript   0.0
+mean introns in three_prime_utrs per transcript0.0
+Total gene length                            185047681
+Total transcript length                      354101196
+Total cds length                             109210054
+Total exon length                            114594697
+Total five_prime_utr length                  2426460
+Total start_codon length                     207891
+Total stop_codon length                      207792
+Total three_prime_utr length                 2958183
+Total intron length per cds                  233980202
+Total intron length per exon                 239506499
+Total intron length per five_prime_utr       2969321
+Total intron length per start_codon          8898
+Total intron length per stop_codon           11863
+Total intron length per three_prime_utr      2511860
+mean gene length                             4509
+mean transcript length                       5090
+mean cds length                              1569
+mean exon length                             209
+mean five_prime_utr length                   259
+mean start_codon length                      2
+mean stop_codon length                       2
+mean three_prime_utr length                  314
+mean cds piece length                        202
+mean five_prime_utr piece length             180
+mean three_prime_utr piece length            237
+mean intron in cds length                    497
+mean intron in exon length                   502
+mean intron in five_prime_utr length         729
+mean intron in start_codon length            684
+mean intron in stop_codon length             539
+mean intron in three_prime_utr length        820
+Longest gene                                 460998
+Longest transcript                           460998
+Longest cds                                  17961
+Longest exon                                 20392
+Longest five_prime_utr                       20188
+Longest start_codon                          3
+Longest stop_codon                           3
+Longest three_prime_utr                      13530
+Longest cds piece                            6909
+Longest five_prime_utr piece                 20188
+Longest three_prime_utr piece                13530
+Longest intron into cds part                 455387
+Longest intron into exon part                455387
+Longest intron into five_prime_utr part      106670
+Longest intron into start_codon part         2506
+Longest intron into stop_codon part          3182
+Longest intron into three_prime_utr part     115193
+Shortest gene                                201
+Shortest transcript                          201
+Shortest cds                                 82
+Shortest exon                                3
+Shortest five_prime_utr                      1
+Shortest start_codon                         1
+Shortest stop_codon                          1
+Shortest three_prime_utr                     1
+Shortest cds piece                           1
+Shortest five_prime_utr piece                1
+Shortest three_prime_utr piece               1
+Shortest intron into cds part                21
+Shortest intron into exon part               20
+Shortest intron into five_prime_utr part     20
+Shortest intron into start_codon part        85
+Shortest intron into stop_codon part         71
+Shortest intron into three_prime_utr part    20
+
+Re-compute transcript without isoforms asked. We remove shortest isoforms if any
+
+Number of gene                               41039
+Number of transcript                         41039
+Number of mrnas with utr both sides          6718
+Number of mrnas with at least one utr        7001
+Number of cds                                41039
+Number of exon                               255974
+Number of five_prime_utr                     6847
+Number of start_codon                        40890
+Number of stop_codon                         40881
+Number of three_prime_utr                    6872
+Number of exon in cds                        251374
+Number of exon in five_prime_utr             9501
+Number of exon in three_prime_utr            8774
+Number of intron in cds                      210335
+Number of intron in exon                     214935
+Number of intron in five_prime_utr           2654
+Number of intron in start_codon              10
+Number of intron in stop_codon               13
+Number of intron in three_prime_utr          1902
+Number gene overlapping                      8201
+Number of single exon gene                   8253
+Number of single exon transcript             8253
+mean transcripts per gene                    1.0
+mean cdss per transcript                     1.0
+mean exons per transcript                    6.2
+mean five_prime_utrs per transcript          0.2
+mean start_codons per transcript             1.0
+mean stop_codons per transcript              1.0
+mean three_prime_utrs per transcript         0.2
+mean exons per cds                           6.1
+mean exons per five_prime_utr                1.4
+mean exons per three_prime_utr               1.3
+mean introns in cdss per transcript          5.1
+mean introns in exons per transcript         5.2
+mean introns in five_prime_utrs per transcript0.1
+mean introns in start_codons per transcript  0.0
+mean introns in stop_codons per transcript   0.0
+mean introns in three_prime_utrs per transcript0.0
+Total gene length                            185047681
+Total transcript length                      178920439
+Total cds length                             58076091
+Total exon length                            61844426
+Total five_prime_utr length                  1700100
+Total start_codon length                     122640
+Total stop_codon length                      122604
+Total three_prime_utr length                 2068235
+Total intron length per cds                  112831342
+Total intron length per exon                 117076013
+Total intron length per five_prime_utr       2212888
+Total intron length per start_codon          7934
+Total intron length per stop_codon           6245
+Total intron length per three_prime_utr      1999974
+mean gene length                             4509
+mean transcript length                       4359
+mean cds length                              1415
+mean exon length                             241
+mean five_prime_utr length                   248
+mean start_codon length                      2
+mean stop_codon length                       2
+mean three_prime_utr length                  300
+mean cds piece length                        231
+mean five_prime_utr piece length             178
+mean three_prime_utr piece length            235
+mean intron in cds length                    536
+mean intron in exon length                   544
+mean intron in five_prime_utr length         833
+mean intron in start_codon length            793
+mean intron in stop_codon length             480
+mean intron in three_prime_utr length        1051
+Longest gene                                 460998
+Longest transcript                           460998
+Longest cds                                  17961
+Longest exon                                 20392
+Longest five_prime_utr                       20188
+Longest start_codon                          3
+Longest stop_codon                           3
+Longest three_prime_utr                      13530
+Longest cds piece                            6909
+Longest five_prime_utr piece                 20188
+Longest three_prime_utr piece                13530
+Longest intron into cds part                 455387
+Longest intron into exon part                455387
+Longest intron into five_prime_utr part      106670
+Longest intron into start_codon part         2506
+Longest intron into stop_codon part          1335
+Longest intron into three_prime_utr part     115193
+Shortest gene                                201
+Shortest transcript                          201
+Shortest cds                                 82
+Shortest exon                                3
+Shortest five_prime_utr                      1
+Shortest start_codon                         1
+Shortest stop_codon                          1
+Shortest three_prime_utr                     1
+Shortest cds piece                           1
+Shortest five_prime_utr piece                1
+Shortest three_prime_utr piece               1
+Shortest intron into cds part                21
+Shortest intron into exon part               20
+Shortest intron into five_prime_utr part     20
+Shortest intron into start_codon part        85
+Shortest intron into stop_codon part         71
+Shortest intron into three_prime_utr part    20
+
+--------------------------------------------------------------------------------
+

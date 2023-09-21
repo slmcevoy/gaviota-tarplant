@@ -1,0 +1,11 @@
+outdir    : "gvtp"
+busco_lineage: "embryophyta"
+order : "eudicotyledons"
+prefix: "gvtp"
+genome: "/labs/Wegrzyn/gvtp/easel/DEINVI_genome.masked.fasta"
+bam: "/home/FCAM/smcevoy/gvtp_rnaseq/*.bam"
+taxon: "Deinandra increscens"
+singularity_cache_dir: "/isg/shared/databases/nfx_singularity_cache"
+reference_db : "/isg/shared/databases/Diamond/RefSeq/complete.protein.faa.208.dmnd"
+training_set: "plant"
+rate: 70

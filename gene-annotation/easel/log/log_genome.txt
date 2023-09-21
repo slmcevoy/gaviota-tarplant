@@ -1,0 +1,2 @@
+######## Genome ########
+74.81 % of DEINVI_genome.masked.fasta is masked

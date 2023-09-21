@@ -1,0 +1,7 @@
+ 
+##### Filtered #####
+Total number of genes: 41039
+Total number of transcripts: 69563
+EnTAP alignment rate: .92
+Mono-exonic/multi-exonic rate: .24 
+BUSCO (embryophyta_odb10): C:96.6%[S:24.8%,D:71.8%],F:0.4%,M:3.0%,n:1614	   

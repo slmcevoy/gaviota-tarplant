@@ -1,0 +1,296 @@
+1Root_S2_L002
+97546635 + 0 in total (QC-passed reads + QC-failed reads)
+65440482 + 0 primary
+32106153 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+84263869 + 0 mapped (86.38% : N/A)
+52157716 + 0 primary mapped (79.70% : N/A)
+65440482 + 0 paired in sequencing
+32720241 + 0 read1
+32720241 + 0 read2
+50141526 + 0 properly paired (76.62% : N/A)
+50526864 + 0 with itself and mate mapped
+1630852 + 0 singletons (2.49% : N/A)
+256294 + 0 with mate mapped to a different chr
+145909 + 0 with mate mapped to a different chr (mapQ>=5)
+
+1Shoot_S1_L002
+127292775 + 0 in total (QC-passed reads + QC-failed reads)
+76351262 + 0 primary
+50941513 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+118227408 + 0 mapped (92.88% : N/A)
+67285895 + 0 primary mapped (88.13% : N/A)
+76351262 + 0 paired in sequencing
+38175631 + 0 read1
+38175631 + 0 read2
+64895990 + 0 properly paired (85.00% : N/A)
+65326476 + 0 with itself and mate mapped
+1959419 + 0 singletons (2.57% : N/A)
+174564 + 0 with mate mapped to a different chr
+113394 + 0 with mate mapped to a different chr (mapQ>=5)
+
+2Root_S4_L002
+98366883 + 0 in total (QC-passed reads + QC-failed reads)
+71661852 + 0 primary
+26705031 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+75866499 + 0 mapped (77.13% : N/A)
+49161468 + 0 primary mapped (68.60% : N/A)
+71661852 + 0 paired in sequencing
+35830926 + 0 read1
+35830926 + 0 read2
+47212708 + 0 properly paired (65.88% : N/A)
+47555872 + 0 with itself and mate mapped
+1605596 + 0 singletons (2.24% : N/A)
+206114 + 0 with mate mapped to a different chr
+123069 + 0 with mate mapped to a different chr (mapQ>=5)
+
+2Shoot_S3_L002
+121413957 + 0 in total (QC-passed reads + QC-failed reads)
+75559208 + 0 primary
+45854749 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+110268285 + 0 mapped (90.82% : N/A)
+64413536 + 0 primary mapped (85.25% : N/A)
+75559208 + 0 paired in sequencing
+37779604 + 0 read1
+37779604 + 0 read2
+61892844 + 0 properly paired (81.91% : N/A)
+62319984 + 0 with itself and mate mapped
+2093552 + 0 singletons (2.77% : N/A)
+170426 + 0 with mate mapped to a different chr
+108062 + 0 with mate mapped to a different chr (mapQ>=5)
+
+5Root_S6_L002
+90569636 + 0 in total (QC-passed reads + QC-failed reads)
+68049278 + 0 primary
+22520358 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+77086808 + 0 mapped (85.11% : N/A)
+54566450 + 0 primary mapped (80.19% : N/A)
+68049278 + 0 paired in sequencing
+34024639 + 0 read1
+34024639 + 0 read2
+52500166 + 0 properly paired (77.15% : N/A)
+52863882 + 0 with itself and mate mapped
+1702568 + 0 singletons (2.50% : N/A)
+169466 + 0 with mate mapped to a different chr
+113308 + 0 with mate mapped to a different chr (mapQ>=5)
+
+5Shoot_S5_L002
+99021432 + 0 in total (QC-passed reads + QC-failed reads)
+77376364 + 0 primary
+21645068 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+76907208 + 0 mapped (77.67% : N/A)
+55262140 + 0 primary mapped (71.42% : N/A)
+77376364 + 0 paired in sequencing
+38688182 + 0 read1
+38688182 + 0 read2
+53012182 + 0 properly paired (68.51% : N/A)
+53381092 + 0 with itself and mate mapped
+1881048 + 0 singletons (2.43% : N/A)
+125280 + 0 with mate mapped to a different chr
+93772 + 0 with mate mapped to a different chr (mapQ>=5)
+
+MLeaf_S7_L002
+107410026 + 0 in total (QC-passed reads + QC-failed reads)
+81943962 + 0 primary
+25466064 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+94751156 + 0 mapped (88.21% : N/A)
+69285092 + 0 primary mapped (84.55% : N/A)
+81943962 + 0 paired in sequencing
+40971981 + 0 read1
+40971981 + 0 read2
+66579808 + 0 properly paired (81.25% : N/A)
+66994340 + 0 with itself and mate mapped
+2290752 + 0 singletons (2.80% : N/A)
+147404 + 0 with mate mapped to a different chr
+112907 + 0 with mate mapped to a different chr (mapQ>=5)
+
+MRoot_S8_L002
+77134095 + 0 in total (QC-passed reads + QC-failed reads)
+64659586 + 0 primary
+12474509 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+70080252 + 0 mapped (90.86% : N/A)
+57605743 + 0 primary mapped (89.09% : N/A)
+64659586 + 0 paired in sequencing
+32329793 + 0 read1
+32329793 + 0 read2
+55208908 + 0 properly paired (85.38% : N/A)
+55583810 + 0 with itself and mate mapped
+2021933 + 0 singletons (3.13% : N/A)
+143550 + 0 with mate mapped to a different chr
+117729 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-1Root_S2_L002
+97495014 + 0 in total (QC-passed reads + QC-failed reads)
+65440482 + 0 primary
+32054532 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+83601036 + 0 mapped (85.75% : N/A)
+51546504 + 0 primary mapped (78.77% : N/A)
+65440482 + 0 paired in sequencing
+32720241 + 0 read1
+32720241 + 0 read2
+49336010 + 0 properly paired (75.39% : N/A)
+49740578 + 0 with itself and mate mapped
+1805926 + 0 singletons (2.76% : N/A)
+280806 + 0 with mate mapped to a different chr
+158861 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-1Root_S2_L002
+97495014 + 0 in total (QC-passed reads + QC-failed reads)
+65440482 + 0 primary
+32054532 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+83601036 + 0 mapped (85.75% : N/A)
+51546504 + 0 primary mapped (78.77% : N/A)
+65440482 + 0 paired in sequencing
+32720241 + 0 read1
+32720241 + 0 read2
+49336010 + 0 properly paired (75.39% : N/A)
+49740578 + 0 with itself and mate mapped
+1805926 + 0 singletons (2.76% : N/A)
+280806 + 0 with mate mapped to a different chr
+158861 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-1Shoot_S1_L002
+127011441 + 0 in total (QC-passed reads + QC-failed reads)
+76351262 + 0 primary
+50660179 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+117103965 + 0 mapped (92.20% : N/A)
+66443786 + 0 primary mapped (87.02% : N/A)
+76351262 + 0 paired in sequencing
+38175631 + 0 read1
+38175631 + 0 read2
+63812062 + 0 properly paired (83.58% : N/A)
+64251652 + 0 with itself and mate mapped
+2192134 + 0 singletons (2.87% : N/A)
+193162 + 0 with mate mapped to a different chr
+124362 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-2Root_S4_L002
+98250217 + 0 in total (QC-passed reads + QC-failed reads)
+71661852 + 0 primary
+26588365 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+75158745 + 0 mapped (76.50% : N/A)
+48570380 + 0 primary mapped (67.78% : N/A)
+71661852 + 0 paired in sequencing
+35830926 + 0 read1
+35830926 + 0 read2
+46435318 + 0 properly paired (64.80% : N/A)
+46785622 + 0 with itself and mate mapped
+1784758 + 0 singletons (2.49% : N/A)
+220082 + 0 with mate mapped to a different chr
+131083 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-2Shoot_S3_L002
+120762451 + 0 in total (QC-passed reads + QC-failed reads)
+75559208 + 0 primary
+45203243 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+108724542 + 0 mapped (90.03% : N/A)
+63521299 + 0 primary mapped (84.07% : N/A)
+75559208 + 0 paired in sequencing
+37779604 + 0 read1
+37779604 + 0 read2
+60752984 + 0 properly paired (80.40% : N/A)
+61179630 + 0 with itself and mate mapped
+2341669 + 0 singletons (3.10% : N/A)
+189582 + 0 with mate mapped to a different chr
+118625 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-5Root_S6_L002
+90477827 + 0 in total (QC-passed reads + QC-failed reads)
+68049278 + 0 primary
+22428549 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+76350877 + 0 mapped (84.39% : N/A)
+53922328 + 0 primary mapped (79.24% : N/A)
+68049278 + 0 paired in sequencing
+34024639 + 0 read1
+34024639 + 0 read2
+51660604 + 0 properly paired (75.92% : N/A)
+52022798 + 0 with itself and mate mapped
+1899530 + 0 singletons (2.79% : N/A)
+180146 + 0 with mate mapped to a different chr
+119424 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTP-5Shoot_S5_L002
+98613173 + 0 in total (QC-passed reads + QC-failed reads)
+77376364 + 0 primary
+21236809 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+75742620 + 0 mapped (76.81% : N/A)
+54505811 + 0 primary mapped (70.44% : N/A)
+77376364 + 0 paired in sequencing
+38688182 + 0 read1
+38688182 + 0 read2
+52050738 + 0 properly paired (67.27% : N/A)
+52405546 + 0 with itself and mate mapped
+2100265 + 0 singletons (2.71% : N/A)
+134878 + 0 with mate mapped to a different chr
+99915 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTPMLeaf_S7_L002
+107039077 + 0 in total (QC-passed reads + QC-failed reads)
+81943962 + 0 primary
+25095115 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+93522117 + 0 mapped (87.37% : N/A)
+68427002 + 0 primary mapped (83.50% : N/A)
+81943962 + 0 paired in sequencing
+40971981 + 0 read1
+40971981 + 0 read2
+65453116 + 0 properly paired (79.88% : N/A)
+65867698 + 0 with itself and mate mapped
+2559304 + 0 singletons (3.12% : N/A)
+158110 + 0 with mate mapped to a different chr
+120035 + 0 with mate mapped to a different chr (mapQ>=5)
+trimmed_GVTPMRoot_S8_L002
+76844962 + 0 in total (QC-passed reads + QC-failed reads)
+64659586 + 0 primary
+12185376 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+0 + 0 primary duplicates
+69006857 + 0 mapped (89.80% : N/A)
+56821481 + 0 primary mapped (87.88% : N/A)
+64659586 + 0 paired in sequencing
+32329793 + 0 read1
+32329793 + 0 read2
+54176964 + 0 properly paired (83.79% : N/A)
+54553998 + 0 with itself and mate mapped
+2267483 + 0 singletons (3.51% : N/A)
+149748 + 0 with mate mapped to a different chr
+123304 + 0 with mate mapped to a different chr (mapQ>=5)

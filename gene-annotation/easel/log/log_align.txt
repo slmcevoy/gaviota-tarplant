@@ -1,0 +1,16 @@
+
+##### Alignment Rates #####
+Passed:
+library rate
+trimmed_GVTP-1Root_S2_L002_mapped_unclassified 86.52
+trimmed_GVTP-1Shoot_S1_L002_mapped_unclassified 91.42
+trimmed_GVTP-2Root_S4_L002_mapped_unclassified 77.87
+trimmed_GVTP-2Shoot_S3_L002_mapped_unclassified 89.19
+trimmed_GVTP-5Root_S6_L002_mapped_unclassified 83.69
+trimmed_GVTP-5Shoot_S5_L002_mapped_unclassified 76.20
+trimmed_GVTPMLeaf_S7_L002_mapped_unclassified 86.26
+trimmed_GVTPMRoot_S8_L002_mapped_unclassified 87.88
+
+Failed:
+None.
+All libraries have a mapping rate greater than 70%

@@ -1,0 +1,269 @@
+------------------------------------------------------
+EnTAP Run Information - Execution
+------------------------------------------------------
+Current EnTAP Version: 0.10.8
+Start time: Mon Sep 18 21:59:36 2023
+
+Working directory has been set to: /labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles
+User Inputs:
+out-dir: /labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles
+config: false
+runP: true
+runN: false
+overwrite: false
+ini: entap_config.ini
+input: gvtp_filtered.pep
+database: /isg/shared/databases/Diamond/RefSeq/complete.protein.faa.208.dmnd,
+graph: false
+no-trim: false
+threads: 16
+state: +
+no-check: false
+output-format: 1,3,4,5,6,
+entap-db-bin: /labs/Wegrzyn/gvtp/easel/work/ac/6b91655cf938011592e0e8343fdb79/outfiles/bin/entap_database.bin
+entap-db-sql: entap_database.db
+entap-graph: /home/FCAM/smcevoy/.nextflow/assets/PlantGenomicsLab/easel-benchmarking-v2-nf/bin/entap_graphing.py
+data-generate: false
+data-type: 0,
+fpkm: 0.500000
+align: 
+single-end: false
+rsem-calculate-expression: /usr/local/bin/rsem-calculate-expression
+rsem-sam-validator: /usr/local/bin/rsem-sam-validator
+rsem-prepare-reference: /usr/local/bin/rsem-prepare-reference
+convert-sam-for-rsem: /usr/local/bin/convert-sam-for-rsem
+complete: false
+frame-selection: 2
+genemarkst-exe: gmst.pl
+transdecoder-long-exe: /usr/lib/TransDecoder-v5.5.0/TransDecoder.LongOrfs
+transdecoder-predict-exe: /usr/lib/TransDecoder-v5.5.0/TransDecoder.Predict
+transdecoder-m: 100
+transdecoder-no-refine-starts: false
+diamond-exe: diamond
+taxon: Deinandra increscens
+qcoverage: 70.000000
+tcoverage: 70.000000
+contam: 
+e-value: 0.000010
+uninformative: conserved,predicted,unknown,unnamed,hypothetical,putative,unidentified,uncharacterized,uncultured,uninformative,,
+ontology: 0,
+level: 0,1,
+eggnog-sql: /labs/Wegrzyn/gvtp/easel/work/ac/6b91655cf938011592e0e8343fdb79/outfiles/databases/eggnog.db
+eggnog-dmnd: /labs/Wegrzyn/gvtp/easel/work/ac/6b91655cf938011592e0e8343fdb79/outfiles/bin/eggnog_proteins.dmnd
+interproscan-exe: /usr/local/interproscan/interproscan.sh
+protein: 
+
+------------------------------------------------------
+Transcriptome Statistics
+------------------------------------------------------
+Protein sequences found
+Total sequences: 69563
+Total length of transcriptome(bp): 111853539
+Average sequence length(bp): 1607.00
+n50: 1926
+n90: 897
+Longest sequence(bp): 18000 (IDmodified-transcript-289641)
+Shortest sequence(bp): 120 (IDmodified-transcript-293915)
+------------------------------------------------------
+Similarity Search - DIAMOND - complete
+------------------------------------------------------
+Search results:
+/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/blastp_gvtp_filtered_final_complete.out
+	Total alignments: 190714
+	Total unselected results: 126337
+		Written to: /labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/processed//complete/unselected
+	Total unique transcripts with an alignment: 64377
+		Reference transcriptome sequences with an alignment (FASTA):
+			/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/processed//complete/best_hits
+		Search results (TSV):
+			/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/processed//complete/best_hits
+	Total unique transcripts without an alignment: 5186
+		Reference transcriptome sequences without an alignment (FASTA):
+			/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/processed//complete/no_hits.faa
+	Total unique informative alignments: 0
+	Total unique uninformative alignments: 64377
+	Top 10 alignments by species:
+			1)helianthus annuus: 52067(80.88%)
+			2)cynara cardunculus var. scolymus: 4035(6.27%)
+			3)lactuca sativa: 2955(4.59%)
+			4)nicotiana tabacum: 253(0.39%)
+			5)camellia sinensis: 231(0.36%)
+			6)olea europaea var. sylvestris: 173(0.27%)
+			7)daucus carota subsp. sativus: 149(0.23%)
+			8)gossypium arboreum: 135(0.21%)
+			9)erythranthe guttata: 118(0.18%)
+			10)nicotiana sylvestris: 118(0.18%)
+
+------------------------------------------------------
+Compiled Similarity Search - DIAMOND - Best Overall
+------------------------------------------------------
+
+	Total unique transcripts with an alignment: 64377
+		Reference transcriptome sequences with an alignment (FASTA):
+			/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/overall_results/best_hits
+		Search results (TSV):
+			/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/overall_results/best_hits
+	Total unique transcripts without an alignment: 5186
+		Reference transcriptome sequences without an alignment (FASTA):
+			/labs/Wegrzyn/gvtp/easel/work/c9/1e6473fb0ccd3fdbc3e135038175c7/entap_outfiles/similarity_search/DIAMOND/overall_results/no_hits.faa
+	Total unique informative alignments: 0
+	Total unique uninformative alignments: 64377
+	Top 10 alignments by species:
+			1)helianthus annuus: 54115(84.06%)
+			2)cynara cardunculus var. scolymus: 2786(4.33%)
+			3)lactuca sativa: 2121(3.29%)
+			4)nicotiana tabacum: 268(0.42%)
+			5)camellia sinensis: 246(0.38%)
+			6)olea europaea var. sylvestris: 174(0.27%)
+			7)daucus carota subsp. sativus: 155(0.24%)
+			8)nicotiana sylvestris: 128(0.20%)
+			9)gossypium arboreum: 126(0.20%)
+			10)erythranthe guttata: 115(0.18%)
+
+------------------------------------------------------
+Gene Family - Gene Ontology and Pathway - EggNOG
+------------------------------------------------------
+Statistics for overall Eggnog results: 
+Total unique sequences with family assignment: 68848
+Total unique sequences without family assignment: 715
+Top 10 Taxonomic Scopes Assigned:
+	1)Viridiplantae: 65954(95.80%)
+	2)Eukaryotes: 2501(3.63%)
+	3)Ancestor: 276(0.40%)
+	4)Animals: 62(0.09%)
+	5)Fungi: 25(0.04%)
+	6)Opisthokonts: 15(0.02%)
+	7)Arthropoda: 9(0.01%)
+	8)Apicomplexa: 2(0.00%)
+	9)Mammals: 2(0.00%)
+	10)Archaea: 1(0.00%)
+Total unique sequences with at least one GO term: 58589
+Total unique sequences without GO terms: 10259
+Total GO terms assigned: 3500520
+Total biological_process terms (lvl>=0): 1979257
+Total unique biological_process terms (lvl>=0): 6837
+Top 10 biological_process terms assigned (lvl>=0): 
+	1)GO:0008150: 51193(2.59%)
+	2)GO:0008152: 41734(2.11%)
+	3)GO:0009987: 38712(1.96%)
+	4)GO:0071704: 33252(1.68%)
+	5)GO:0044238: 32051(1.62%)
+	6)GO:0044237: 31472(1.59%)
+	7)GO:0043170: 24237(1.22%)
+	8)GO:0044699: 23362(1.18%)
+	9)GO:0044260: 21441(1.08%)
+	10)GO:0044763: 19984(1.01%)
+Total cellular_component terms (lvl>=0): 752400
+Total unique cellular_component terms (lvl>=0): 1023
+Top 10 cellular_component terms assigned (lvl>=0): 
+	1)GO:0005575: 45169(6.00%)
+	2)GO:0005623: 41121(5.47%)
+	3)GO:0044464: 41121(5.47%)
+	4)GO:0005622: 36131(4.80%)
+	5)GO:0044424: 35458(4.71%)
+	6)GO:0043226: 31834(4.23%)
+	7)GO:0043229: 31828(4.23%)
+	8)GO:0043227: 30409(4.04%)
+	9)GO:0043231: 30403(4.04%)
+	10)GO:0005737: 27090(3.60%)
+Total overall terms (lvl>=0): 3500520
+Total unique overall terms (lvl>=0): 10599
+Top 10 overall terms assigned (lvl>=0): 
+	1)GO:0008150: 51193(1.46%)
+	2)GO:0003674: 49329(1.41%)
+	3)GO:0005575: 45169(1.29%)
+	4)GO:0008152: 41734(1.19%)
+	5)GO:0044464: 41121(1.17%)
+	6)GO:0005623: 41121(1.17%)
+	7)GO:0009987: 38712(1.11%)
+	8)GO:0005622: 36131(1.03%)
+	9)GO:0044424: 35458(1.01%)
+	10)GO:0005488: 35030(1.00%)
+Total molecular_function terms (lvl>=0): 768863
+Total unique molecular_function terms (lvl>=0): 2739
+Top 10 molecular_function terms assigned (lvl>=0): 
+	1)GO:0003674: 49329(6.42%)
+	2)GO:0005488: 35030(4.56%)
+	3)GO:0003824: 33811(4.40%)
+	4)GO:0097159: 26738(3.48%)
+	5)GO:1901363: 26718(3.48%)
+	6)GO:0043167: 24782(3.22%)
+	7)GO:0036094: 15170(1.97%)
+	8)GO:0003676: 15021(1.95%)
+	9)GO:0000166: 14883(1.94%)
+	10)GO:1901265: 14883(1.94%)
+Total biological_process terms (lvl>=1): 1921965
+Total unique biological_process terms (lvl>=1): 6819
+Top 10 biological_process terms assigned (lvl>=1): 
+	1)GO:0008152: 41734(2.17%)
+	2)GO:0009987: 38712(2.01%)
+	3)GO:0071704: 33252(1.73%)
+	4)GO:0044238: 32051(1.67%)
+	5)GO:0044237: 31472(1.64%)
+	6)GO:0043170: 24237(1.26%)
+	7)GO:0044699: 23362(1.22%)
+	8)GO:0044260: 21441(1.12%)
+	9)GO:0044763: 19984(1.04%)
+	10)GO:0050896: 17771(0.92%)
+Total cellular_component terms (lvl>=1): 707205
+Total unique cellular_component terms (lvl>=1): 1020
+Top 10 cellular_component terms assigned (lvl>=1): 
+	1)GO:0005623: 41121(5.81%)
+	2)GO:0044464: 41121(5.81%)
+	3)GO:0005622: 36131(5.11%)
+	4)GO:0044424: 35458(5.01%)
+	5)GO:0043226: 31834(4.50%)
+	6)GO:0043229: 31828(4.50%)
+	7)GO:0043227: 30409(4.30%)
+	8)GO:0043231: 30403(4.30%)
+	9)GO:0005737: 27090(3.83%)
+	10)GO:0044444: 24550(3.47%)
+Total overall terms (lvl>=1): 3348485
+Total unique overall terms (lvl>=1): 10575
+Top 10 overall terms assigned (lvl>=1): 
+	1)GO:0008152: 41734(1.25%)
+	2)GO:0044464: 41121(1.23%)
+	3)GO:0005623: 41121(1.23%)
+	4)GO:0009987: 38712(1.16%)
+	5)GO:0005622: 36131(1.08%)
+	6)GO:0044424: 35458(1.06%)
+	7)GO:0005488: 35030(1.05%)
+	8)GO:0003824: 33811(1.01%)
+	9)GO:0071704: 33252(0.99%)
+	10)GO:0044238: 32051(0.96%)
+Total molecular_function terms (lvl>=1): 719315
+Total unique molecular_function terms (lvl>=1): 2736
+Top 10 molecular_function terms assigned (lvl>=1): 
+	1)GO:0005488: 35030(4.87%)
+	2)GO:0003824: 33811(4.70%)
+	3)GO:0097159: 26738(3.72%)
+	4)GO:1901363: 26718(3.71%)
+	5)GO:0043167: 24782(3.45%)
+	6)GO:0036094: 15170(2.11%)
+	7)GO:0003676: 15021(2.09%)
+	8)GO:0000166: 14883(2.07%)
+	9)GO:1901265: 14883(2.07%)
+	10)GO:0016740: 14234(1.98%)
+Total unique sequences with at least one pathway (KEGG) assignment: 17844
+Total unique sequences without pathways (KEGG): 51004
+Total pathways (KEGG) assigned: 58419
+------------------------------------------------------
+Final Annotation Statistics
+------------------------------------------------------
+Total Sequences: 69563
+Similarity Search
+	Total unique sequences with an alignment: 64377
+	Total unique sequences without an alignment: 5186
+Gene Families
+	Total unique sequences with family assignment: 68848
+	Total unique sequences without family assignment: 715
+	Total unique sequences with at least one GO term: 58589
+	Total unique sequences with at least one pathway (KEGG) assignment: 17844
+Totals
+	Total unique sequences annotated (similarity search alignments only): 215
+	Total unique sequences annotated (gene family assignment only): 4686
+	Total unique sequences annotated (gene family and/or similarity search): 69063
+	Total unique sequences unannotated (gene family and/or similarity search): 500
+
+EnTAP has completed!
+Total runtime (minutes): 346
