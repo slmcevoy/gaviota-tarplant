@@ -43,9 +43,10 @@ Mapping was redone with the contaminant filtered RNA-Seq.
 
 <details>
 <summary>Gene annotation</summary>  
-
+<br>
 EASEL - transcript assembly, gene prediction, filtering, summary metrics  
-
+<br>  
+<br>
 Easel was run on the UCONN HPC but the output is saved at:  
   /redser5/projects/GVTP/gene_annotations/    
   Command to run easel: nextflow.sh  
