@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    gvtp_ont_raw.contigs
+# contigs (>= 0 bp)         78836               
+# contigs (>= 1000 bp)      78836               
+# contigs (>= 5000 bp)      78711               
+# contigs (>= 10000 bp)     76459               
+# contigs (>= 25000 bp)     49212               
+# contigs (>= 50000 bp)     22502               
+Total length (>= 0 bp)      3762912307          
+Total length (>= 1000 bp)   3762912307          
+Total length (>= 5000 bp)   3762463617          
+Total length (>= 10000 bp)  3743746532          
+Total length (>= 25000 bp)  3253489580          
+Total length (>= 50000 bp)  2315039505          
+# contigs                   78798               
+Largest contig              1160180             
+Total length                3762828940          
+GC (%)                      38.13               
+N50                         66934               
+N90                         21974               
+auN                         102842.1            
+L50                         14988               
+L90                         54880               
+# N's per 100 kbp           0.00                

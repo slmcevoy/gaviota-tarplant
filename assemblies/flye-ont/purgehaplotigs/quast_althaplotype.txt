@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    curated.haplotigs
+# contigs (>= 0 bp)         36376            
+# contigs (>= 1000 bp)      36376            
+# contigs (>= 5000 bp)      28455            
+# contigs (>= 10000 bp)     19996            
+# contigs (>= 25000 bp)     8846             
+# contigs (>= 50000 bp)     3145             
+Total length (>= 0 bp)      744594801        
+Total length (>= 1000 bp)   744594801        
+Total length (>= 5000 bp)   713106233        
+Total length (>= 10000 bp)  651950868        
+Total length (>= 25000 bp)  468834336        
+Total length (>= 50000 bp)  271854522        
+# contigs                   36376            
+Largest contig              350245           
+Total length                744594801        
+GC (%)                      36.20            
+N50                         34994            
+N90                         8580             
+auN                         51835.7          
+L50                         5574             
+L90                         21953            
+# N's per 100 kbp           0.00             
