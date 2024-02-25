@@ -25,15 +25,7 @@ Your data is temporarily stored on Google Drive cloud storage for 14 days.
 Important Notice:
 If you need your sample or libraries back after sequencing, please collect it from us within 2 weeks after we deliver data. We will automatically discard samples & sequencing libraries not collected after 2 weeks of data delivery.
 
-Please use the following link to access your data:
-https://drive.google.com/drive/folders/16FfZ-ijwOd8abOjiNlum06Y1mmzHoOf3?usp=sharing
-RM_1pool_S-22-0930_GAP445 - Google Drive
-RM_1pool_S-22-0930_GAP445
-drive.google.com
-
-Note:  Anyone with access to this specific Google Drive link can access this dataset.
-Please only forward this email to people that you authorized to have access to the data
-
+...
 
 Please look for folder:
 RM_1pool_S-22-0930_GAP445

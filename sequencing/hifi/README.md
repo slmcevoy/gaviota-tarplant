@@ -19,15 +19,7 @@ Provided by Oanh Nguyen (OHNGUYEN@ucdavis.edu), Staff Research Associate - PacBi
 
 ### Filtering
 
-* Centrifuge v1.0.4 was used to identify and filter contaminants.  I copied over and index I was using at UConn, containing archaea, bacteria, fungus, and virus.
+* Not Used: Centrifuge v1.0.4 was used to identify and filter contaminants.  I copied over and index I was using at UConn, containing archaea, bacteria, fungus, and virus.
   * It appears that mainly bacteria were filtered. Acinetobacter baumannii and Clostridium tetani had the most reads filtered by far.
-* LongQC was run after this filtering to check the drop in coverage.
+* This was not filtered for fear of filtering plastid-like sequence.  Particularly in this situation where there were difficulties assembling the chloroplast.  The filtering didn't make any difference with the HiFi nuclear assembly issues.
 
-### Final coverage
-
-Based on flow cytometry estimates of 1.70 - 2.3 Gbp and Genomescope average estimate of 1.75 Gbp
-* 1.70 Gbp genome = 44x
-* 1.75 Gbp genome = 43x
-* 2.30 Gbp genome = 33x
-
-[Full summary statistics](https://docs.google.com/spreadsheets/d/1UE9K6D2R1yrIELLfxwF7lrPZlcxHniXjwkWnjI0mfms)
