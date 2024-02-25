@@ -8,8 +8,8 @@ Flye with ONT reads was one of the two best draft assemblies.  For the most part
 Filtered out reads with length < 3000  
 
 Purge Haplotigs  
--l 0  -m 55  -h 190
--l 0  -m 40  -h 190 (same result) 
+-l 0  -m 55  -h 190  
+-l 0  -m 40  -h 190 (same result)  
 Other tries:  
 -l 0  -m 55  -h 190 -a 60  
 Purge duplicates was also tried  
