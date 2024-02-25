@@ -1,0 +1,3 @@
+HiC_scaffold_630
+HiC_scaffold_11676
+HiC_scaffold_16689

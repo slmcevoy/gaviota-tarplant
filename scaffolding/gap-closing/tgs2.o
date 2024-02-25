@@ -1,0 +1,39 @@
+INFO  :   Run tgsgapcloser. from /public/groups/meyerlab/software/TGS-GapCloser ;
+          Version : 1.2.1 ;
+          Release time : 2022-12-30 .
+
+
+INFO  :   Parsing args starting ...
+             --scaff ../../curated_wrapped.FINAL.chloroplast_rm.contams_rm.ncbiclean.fasta
+             --reads ../gvtp_ont_raw_repetitive.correctedReads.fasta
+             --output gvtp_flye_3ddna-erc5-ncbiclean_ne
+             --ne 
+             --thread 34
+          --minmap_arg -I 400G -K 100G 
+
+INFO  :   Parsing args end .
+
+INFO  :   Checking basic args & env ...
+              -   No error correction by --ne option
+              -   TGS reads type is ont . MINIMAP2_PARAM is -I 400G -K 100G   MIN_IDY is 0.3 . MIN_MATCH is 300 .
+
+INFO  :   Checking basic args & env end.
+
+INFO  :   Step 1 , run TGSSeqSplit to split scaffolds into scaftigs(contigs). 
+skip step1 since done_step1_tag exists
+
+INFO  :   Step 1 , done .
+
+INFO  :   Step 2 , skip TGSCandidate by --ne option.
+
+INFO  :   Step 3 , skip error correction by --ne option.
+
+INFO  :   Step 4 , gap filling ... 
+              -   Use ../gvtp_ont_raw_repetitive.correctedReads.fasta as final TGS READS input.
+              -   4,1 , mapping contigs against reads ... 
+              -   4,2 , filling gaps ... 
+              -   4,2 , gen final seqs ... 
+
+INFO  :   Step 4 , done .
+
+INFO  :   ALL DONE !!! 

@@ -1,0 +1,8 @@
+HiC_scaffold_218
+HiC_scaffold_4731
+HiC_scaffold_7559
+HiC_scaffold_7560
+HiC_scaffold_8310
+HiC_scaffold_8311
+HiC_scaffold_20566
+HiC_scaffold_27391

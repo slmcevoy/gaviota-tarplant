@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    DEINVI_genome
+# contigs (>= 0 bp)         28693        
+# contigs (>= 1000 bp)      28693        
+# contigs (>= 5000 bp)      18099        
+# contigs (>= 10000 bp)     10046        
+# contigs (>= 25000 bp)     2589         
+# contigs (>= 50000 bp)     679          
+Total length (>= 0 bp)      1674664524   
+Total length (>= 1000 bp)   1674664524   
+Total length (>= 5000 bp)   1638314112   
+Total length (>= 10000 bp)  1580646439   
+Total length (>= 25000 bp)  1469258196   
+Total length (>= 50000 bp)  1404366947   
+# contigs                   28693        
+Largest contig              132903021    
+Total length                1674664524   
+GC (%)                      37.27        
+N50                         74894508     
+N90                         17589        
+auN                         68225345.5   
+L50                         9            
+L90                         4402         
+# N's per 100 kbp           600.43       
