@@ -1,26 +1,39 @@
-# Gaviota tarplant
+# Gaviota tarplant Reference genome  
 
-## Reference genome
+This repository contains methods and workflow commands used to generate a reference genome for Deinandra increscens subsp. villosa (Asteraceae).  
+ 
+  
+### Sequencing  
 
-[Data tracking google sheet](https://docs.google.com/spreadsheets/d/1UE9K6D2R1yrIELLfxwF7lrPZlcxHniXjwkWnjI0mfms)
+[ONT](sequencing/ont/)  
+[Omni-C](sequencing/omni-c/)  
+[HiFi](sequencing/hifi/)   
 
-[Manuscript](https://docs.google.com/document/d/1-gQ0Fu_akPzGVo_qbwzlaDTzs5p_G3sr7LgDhgCQFik) - [Original template](https://github.com/slmcevoy/gaviota-tarplant/blob/main/manuscript/GenomeResourceTemplateCCGP.docx)
+### Genome estimates  
 
-[NSF ExploreACCESS Allocation Request](https://docs.google.com/document/d/1ua9xHu3JIEED47vCyB_bPgAcN1v6m9otQfiM2Oj0AHU/edit?usp=sharing) - [ACCESS website](https://access-ci.org/)
+[Flow cytometry estimate](genome-size/flowcy/README.md) - 1.7 -2.3 Gbp  
+[K-mer based estimates](genome-size/kmer-distribution/README.md) - 1.75 Gbp, 70% repeats, and heterozygosity of 1.83.  
 
-### Size estimation
+### Genome Assembly  
 
-[Flow cytometry estimate](genome-size/flowcy/README.md) - 1.7 -2.3 Gbp
+[Draft assemblies](draft-assemblies/) 
+ * Flye, Canu, Verkko, Hifiasm  
+ * Purge Haplotigs  
 
-[K-mer based estimates](genome-size/kmer-distribution/README.md) - 1.75 Gbp, 70% repeats, and heterozygosity of 1.83.
+[Scaffold assemblies](draft-assemblies/) Flye in Juicer/3D-DNA/JuiceBox  
 
-### Sequencing
 
-[HiFi raw and filtered summaries](sequencing/hifi/) - Using 1.75Gbp as the genomize size, raw read coverage is 44x and there is 43x after filtering contaminants, most of which was bactieria.
+### Annotation  
 
-Omni-C summaries coming...
+[Repeat annotation](repeat-annotation)  
+ * RepeatModeler DeNovo with --LTRStruct  
+ * RepeatMasker: RepeatModeler results plus ltrstruct_inpactor, a curated plant LTR database. ASTER-REP database was also tested.  ParseRM was used to examine the RepeatMasker results.  
 
-### Assembly
+[Gene annotation](gene-annotation) - using 8 RNA-Seq libraries (2 tissue types, 4 individuals) in the EASEL pipeline.  
 
-Flye - currently testing
+### Gene duplication   
 
+[Gene duplication](gene-duplication) 
+
+Identification and categorization of gene duplication pairs using https://github.com/qiao-xin/DupGen_finder
+Plotting of WGD peaks for Gaviota tarplant and sunflower https://github.com/qiao-xin/Scripts_for_GB
