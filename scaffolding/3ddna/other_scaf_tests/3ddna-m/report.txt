@@ -1,0 +1,25 @@
+All statistics are based on contigs of size >= 3000 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                    curated_wrapped.FINAL
+# contigs (>= 0 bp)         31128                
+# contigs (>= 1000 bp)      31128                
+# contigs (>= 5000 bp)      20523                
+# contigs (>= 10000 bp)     12334                
+# contigs (>= 25000 bp)     4249                 
+# contigs (>= 50000 bp)     1010                 
+Total length (>= 0 bp)      1615336207           
+Total length (>= 1000 bp)   1615336207           
+Total length (>= 5000 bp)   1578844220           
+Total length (>= 10000 bp)  1520097271           
+Total length (>= 25000 bp)  1397518868           
+Total length (>= 50000 bp)  1291026670           
+# contigs                   28833                
+Largest contig              109112330            
+Total length                1611466135           
+GC (%)                      37.28                
+N50                         63889175             
+N90                         16369                
+auN                         54524736.8           
+L50                         9                    
+L90                         6854                 
+# N's per 100 kbp           591.73               

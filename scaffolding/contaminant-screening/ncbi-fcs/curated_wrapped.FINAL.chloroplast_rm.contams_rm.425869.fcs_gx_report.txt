@@ -1,0 +1,12 @@
+##[["FCS genome report", 2, 1], {"git-rev": "v0.4.0-3-g8096f62", "run-date": "Mon Aug 14 22:38:37 2023", "db": {"build-date": "2023-01-24", "seqs": 3025824, "Gbp": 709.264}, "run-info": {"agg-cvg": 0.13581, "asserted-div": "plnt:plants", "inferred-primary-divs": ["plnt:plants"], "corrected-primary-divs": ["plnt:plants"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+HiC_scaffold_7	14210016	14212036	132869780	FIX	anml:insects	89	Aethina tumida
+HiC_scaffold_7	69224778	69225417	132869780	FIX	fung:ascomycetes	96	Colletotrichum lindemuthianum
+HiC_scaffold_8	47918460	47919131	72746833	FIX	anml:insects	93	Leptopilina boulardi
+HiC_scaffold_10	91448113	91448795	115485529	FIX	anml:insects	86	n/a
+HiC_scaffold_15	9417319	9418189	22415273	FIX	anml:insects	94	n/a
+HiC_scaffold_17	44196061	44197169	98206645	FIX	anml:insects	84	Myzus persicae
+HiC_scaffold_19	3642030	3642972	44428346	FIX	anml:insects	94	n/a
+HiC_scaffold_23	7900690	7901190	97267739	FIX	anml:insects	92	n/a
+HiC_scaffold_27	22570829	22572264	115854569	FIX	anml:insects	85	Anthonomus grandis
+HiC_scaffold_24881	1	4000	4000	EXCLUDE	anml:insects	67	Sitophilus oryzae

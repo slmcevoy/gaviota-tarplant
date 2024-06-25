@@ -141,6 +141,7 @@ MRoot_S8_L002
 2021933 + 0 singletons (3.13% : N/A)
 143550 + 0 with mate mapped to a different chr
 117729 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-1Root_S2_L002
 97495014 + 0 in total (QC-passed reads + QC-failed reads)
 65440482 + 0 primary
@@ -158,6 +159,7 @@ trimmed_GVTP-1Root_S2_L002
 1805926 + 0 singletons (2.76% : N/A)
 280806 + 0 with mate mapped to a different chr
 158861 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-1Root_S2_L002
 97495014 + 0 in total (QC-passed reads + QC-failed reads)
 65440482 + 0 primary
@@ -175,6 +177,7 @@ trimmed_GVTP-1Root_S2_L002
 1805926 + 0 singletons (2.76% : N/A)
 280806 + 0 with mate mapped to a different chr
 158861 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-1Shoot_S1_L002
 127011441 + 0 in total (QC-passed reads + QC-failed reads)
 76351262 + 0 primary
@@ -192,6 +195,7 @@ trimmed_GVTP-1Shoot_S1_L002
 2192134 + 0 singletons (2.87% : N/A)
 193162 + 0 with mate mapped to a different chr
 124362 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-2Root_S4_L002
 98250217 + 0 in total (QC-passed reads + QC-failed reads)
 71661852 + 0 primary
@@ -209,6 +213,7 @@ trimmed_GVTP-2Root_S4_L002
 1784758 + 0 singletons (2.49% : N/A)
 220082 + 0 with mate mapped to a different chr
 131083 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-2Shoot_S3_L002
 120762451 + 0 in total (QC-passed reads + QC-failed reads)
 75559208 + 0 primary
@@ -226,6 +231,7 @@ trimmed_GVTP-2Shoot_S3_L002
 2341669 + 0 singletons (3.10% : N/A)
 189582 + 0 with mate mapped to a different chr
 118625 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-5Root_S6_L002
 90477827 + 0 in total (QC-passed reads + QC-failed reads)
 68049278 + 0 primary
@@ -243,6 +249,7 @@ trimmed_GVTP-5Root_S6_L002
 1899530 + 0 singletons (2.79% : N/A)
 180146 + 0 with mate mapped to a different chr
 119424 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTP-5Shoot_S5_L002
 98613173 + 0 in total (QC-passed reads + QC-failed reads)
 77376364 + 0 primary
@@ -260,6 +267,7 @@ trimmed_GVTP-5Shoot_S5_L002
 2100265 + 0 singletons (2.71% : N/A)
 134878 + 0 with mate mapped to a different chr
 99915 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTPMLeaf_S7_L002
 107039077 + 0 in total (QC-passed reads + QC-failed reads)
 81943962 + 0 primary
@@ -277,6 +285,7 @@ trimmed_GVTPMLeaf_S7_L002
 2559304 + 0 singletons (3.12% : N/A)
 158110 + 0 with mate mapped to a different chr
 120035 + 0 with mate mapped to a different chr (mapQ>=5)
+
 trimmed_GVTPMRoot_S8_L002
 76844962 + 0 in total (QC-passed reads + QC-failed reads)
 64659586 + 0 primary

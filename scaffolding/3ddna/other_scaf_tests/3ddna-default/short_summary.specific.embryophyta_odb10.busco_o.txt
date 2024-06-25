@@ -1,0 +1,30 @@
+# BUSCO version is: 5.4.3 
+# The lineage dataset is: embryophyta_odb10 (Creation date: 2020-09-10, number of genomes: 50, number of BUSCOs: 1614)
+# Summarized benchmarking in BUSCO notation for file /public/groups/meyerlab/gvtp/assemblies/flye_ont/3ddna/3ddna-default/curated_wrapped.FINAL.fasta
+# BUSCO was run in mode: euk_genome_met
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:97.2%[S:80.9%,D:16.3%],F:1.7%,M:1.1%,n:1614	   
+	1568	Complete BUSCOs (C)			   
+	1305	Complete and single-copy BUSCOs (S)	   
+	263	Complete and duplicated BUSCOs (D)	   
+	27	Fragmented BUSCOs (F)			   
+	19	Missing BUSCOs (M)			   
+	1614	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	31128	Number of scaffolds
+	51457	Number of contigs
+	1676309556	Total length
+	0.606%	Percent gaps
+	66 MB	Scaffold N50
+	68 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.00
+	metaeuk: 6.a5d39d9
+	busco: 5.4.3
